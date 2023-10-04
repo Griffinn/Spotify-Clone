@@ -11,4 +11,4 @@ Created a Spotify Clone web application showcasing a comprehensive skill set in 
 ![login](https://github.com/Griffinn/Spotify-Clone/assets/119476393/71752d45-e26e-4725-990f-2d050c64fe9c)
 
 
-![](https://github.com/Griffinn/Spotify-Clone/assets/119476393/b8613d31-6ef8-4711-9e01-371231754e6e)
+![songs](https://github.com/Griffinn/Spotify-Clone/assets/119476393/a68d49d8-084a-45ae-913a-02779cf73749)
